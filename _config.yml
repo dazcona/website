@@ -1,0 +1,64 @@
+title: David Azcona's site
+url: "https://computing.dcu.ie/~dazcona/"
+
+author: David Azcona
+author_title: PhD student
+email: david.azcona2@mail.dcu.ie
+fulbright: Fulbright Visiting scholar
+fulbright_email: david.azcona@asu.edu
+department: School of Computing
+department_url: http://computing.dcu.ie
+research_centre: Insight Centre for Data Analytics
+research_centre_url: http://insight-centre.org
+university: Dublin City University
+university_url: http://dcu.ie
+university_usa: Arizona State University
+university_usa_url: http://asu.edu
+
+blog_title: 'My Blog'
+
+baseurl:
+pubs_path: /pubs
+permalink: /:categories/:title
+navigation:
+    - title: Home
+      link: /
+    - title: Blog
+      link: /blog
+    - title: Projects
+      link: /projects
+    - title: Publications
+      link: /publications.html
+    - title: CV
+      link: /cv.html
+    - title: Awards
+      link: /awards.html
+
+ga_id: UA-110743398-1
+ga_domain: dcu.ie
+
+highlighter: true
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+scholar:
+  style: apa-no-doi-no-issue
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  repository: ./pubs
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{ reference }} {% if links.pdf %}<a href=\"{{ links.pdf }}\">PDF</a> {% endif %} "
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibtex
+  details_layout: bibtex.html
+  details_link: BibTeX
+
+  query: "@*"
