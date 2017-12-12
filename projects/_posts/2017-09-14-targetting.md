@@ -2,13 +2,13 @@
 layout: project
 title: Targetting at-risk students in Computer Science
 collaborators: Alan Smeaton
-image: /images/targetting_diagram.png
+image: /images/targetting_notification.png
 excerpt:
-    We present a system for articulated human tracking and show that *unscented Kalman filtering* (UKF) allows for less likelihood evaluations compared to particle filtering (PF). Moreover, we achieve a smoother tracking with lower errors using UKF rather than PF.
+    We present a new approach to automatically detecting lower-performing or "at-risk" students on computer programming modules and sending them personalized adaptive recommendations based on their performance.
 ---
 
 ## Abstract
-This paper presents a new approach to automatically detecting lower-performing or “at-risk” students on computer programming modules in an undergraduate University degree course. Using historical data from previous student cohorts we built a predictive model using logged interactions between students and online resources, as well as students’ progress in programming laboratory work. Predictions were calculated each week during a 12-week semester. Course lecturers received student lists ranked by their probability of failing the next computer-based laboratory exam. At-risk students were targeted and offered assistance during laboratory sessions by the lecturer and laboratory tutors. When we group students into two cohorts depending on whether they failed or passed their first laboratory exam, the average margin of improvement on the second laboratory exam between the higher and lower-performing students was four times higher when our predictions were run and subsequent laboratory support targeted at these students, compared to students from the year our model was trained on.
+We present a new approach to automatically detecting lower-performing or "at-risk" students in computer programming modules and automatically and adaptively sending them feedback. By leveraging historical student data we built predictive models using student characteristics, prior academic history, logged interactions between students and online resources, and students' progress in programming laboratory work. Predictions were generated every week during the semester's classes. In addition, during the second half of the semester, students who opted-in received pseudo real-time personalised feedback. Notifications were personalised based on students' predicted performance on the module and included a programming suggestion from a top-student in the class if any  programs submitted had failed to meet the specified criteria. As a result, this helped  students who corrected their programs to learn more and reduced the gap between lower and higher-performing students.
 
 ## Publications
 * {% reference azcona2017targeting %} {% cite_details azcona2017targeting %} / [PDF]({{ site.pubs_path }}/azcona2017targeting.pdf)
@@ -16,17 +16,33 @@ This paper presents a new approach to automatically detecting lower-performing o
 
 ## Further details
 
-<img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_cao.png" />
-
-<img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_map.png" />
+A custom Virtual Learning Environment (VLE) for the teaching of computer programming has been developed at our university. This automated grading platform is currently used in a variety of programming courses across CS; including the 6+ courses we run predictions and recommendations for. Students can browse course material, submit and verify their laboratory work. This platform has been used for the past two academic years and that is the data we are using for our analysis.
 
 <img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_einstein.png" />
 
 <img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_testcase.png" />
 
+We developed predictive models, one per course, to automatically classify students' performance. These models use the students' digital footprints to predict their performance in computer-based laboratory programming exams. The data sources we leverage in order to model student interaction, engagement and effort in programming courses are Student Characteristics, Prior Academic history, Programming submissions, Interaction logs. The individual features extracted from these data sources are explored and correlations are measured e.g. the entry GPA points is highly correlated with how students perform in their first year at our university: 
+
+<img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_cao.png" />
+
+Some of the features and their importance on a given week:
+
+<img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_features.png" />
+
+More data sources can be added to our model. For instance, we also gather when students connect to the WiFi routers. This allows us to extract other kind of features such as who they spend their time with and how that affects their engagment and performance. See the following heat map:
+
+<img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_map.png" />
+
+Students in some of these courses were sent weekly notifications regarding their performance and code solutions from top-students in the class. These programming suggestions were only added if the student had submitted a program that failed any of the testcases and had been considered incorrect. We developed a knowledge graph and based on the concepts the lecturer considered more important every week, we started suggesting programs for those holes.
+
 <img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_diagram.png" />
 
 <img class="post-image-bottom" src="{{ site.baseurl }}/images/targetting_notification.png" />
+
+A differential improvement for students that corrected their failed programs was seen on their second laboratory exam with respect to their first assessment. It seems beneficial to the student's learning to learn from the programs that are offered to them as advice for failed submissions.
+
+Further details will be posted here shortly if this is something the community is interested in.
 
 ## Software
 The code is will be available on my [Github][github] soon. 

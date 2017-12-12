@@ -31,6 +31,7 @@ I have been very fortunate to receive a number of awards that have allowed me to
 | **2015** | **Accelerator awardee to start up my own company** |
 || *Funding organism*: [Ryan Academy for Entrepeneurs][ryan] |
 || *Location*: Dublin City University, Ireland |
+|| Further details can be found [here](./blog/ustart) |
 | &nbsp; ||
 | **2013 - 2015** | **Tuition Reimbursement awardee to course a Master's Degree** |
 || *Funding organism*: [IBM][ibm] |
