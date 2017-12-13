@@ -96,6 +96,10 @@ For the past 4 years I have been a laboratory assistant and tutor at DCU's Schoo
 | Jorge Acedo | <div style="display: inline-block;white-space: nowrap;">jorge.acedo@ingeteam.com&nbsp;&nbsp;&nbsp;</div> | Director at Ingeteam Wind Power & Associate Professor at UPNA |
 | &nbsp; |||
 
+## Interests
+* I am a sports enthusiast. I represented my state Navarre on the Under 19’s Spanish soccer tournament while pursuing my BSc
+* I love travelling, meeting people and immersing myself in other cultures
+
 <br>
 <br>
 <center>**Thank you for your consideration.**</center>
