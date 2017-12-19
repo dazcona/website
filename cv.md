@@ -24,7 +24,7 @@ layout: default
 | **2013 - 2015** | **MSc in Computing, Major in Data Analytics, Dublin City University (DCU), Ireland** |
 || 1<sup>st</sup> class honors (ranked 2<sup>nd</sup> in my class) |
 || *Focus*: Machine learning, Data mining |
-|| *Thesis*: Micro-analytics for Student Performance Prediction (published in [IJCSSE](./publications)) |
+|| *Thesis*: Micro-analytics for Student Performance Prediction (published in [IJCSSE](./publications.html)) |
 | &nbsp; ||
 | **2007 - 2010** | **BSc in Computer Science, Public University of Navarre (UPNA), Spain** |
 || 1<sup>st</sup> class honors (Thesis grade: 10/10) |
