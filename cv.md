@@ -19,7 +19,7 @@ layout: default
 || *Topic*: Educational Data Mining & Computer Science Education |
 || *Advisor*: [Prof Alan Smeaton](http://www.computing.dcu.ie/~asmeaton/) |
 | &nbsp; ||
-| **2017 - Present** | **[Fulbright](https://us.fulbrightonline.org/) Visiting Researcher, Arizona State University (ASU), United States** |
+| **2017 - 2018** | **[Fulbright](https://us.fulbrightonline.org/) Visiting Researcher, Arizona State University (ASU), United States** |
 | &nbsp; ||
 | **2013 - 2015** | **MSc in Computing, Major in Data Analytics, Dublin City University (DCU), Ireland** |
 || 1<sup>st</sup> class honors (ranked 2<sup>nd</sup> in my class) |
@@ -59,8 +59,8 @@ For the past 4 years I have been a laboratory assistant and tutor at DCU's Schoo
 ## Volunteering
 |||
 |---|---|
-| <div style="display: inline-block;white-space: nowrap;">**2017 - Present**&nbsp;&nbsp;&nbsp;</div> | **CoderDojo Mentor at ASU** |
-|| Started a Dojo in Tempe (Arizona) to teach kids coding skills in a fun way |
+| <div style="display: inline-block;white-space: nowrap;">**2017 - 2018**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div> | **Coding Lead Mentor at ASU's Inition Education Solutions** |
+|| Led a group of student volunteers to teach kids how to code in a fun way at Gililland Middle School (Tempe, Arizona) |
 | &nbsp; ||
 | **2015 - 2017** | **DCU Faculty of Engineering Postgraduate Research Student Representative** |
 || Represented research postgraduate students by raising issues to the faculty |
@@ -97,7 +97,7 @@ For the past 4 years I have been a laboratory assistant and tutor at DCU's Schoo
 | &nbsp; |||
 
 ## Interests
-* I am a sports enthusiast. I represented my state Navarre on the Under 19’s Spanish soccer tournament while pursuing my BSc
+* I am a sports enthusiast. I represented my state Navarre (Spain) on the Under 19’s Spanish Inter-State Soccer Tournament while pursuing my BSc degree
 * I love travelling, meeting people and immersing myself in other cultures
 
 <br>

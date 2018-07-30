@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Targetting at-risk students in Computer Science
-collaborators: Alan Smeaton
+title: Educational Data Mining for Personalized Learning
+collaborators: Prof Alan Smeaton, Prof Sharon Hsiao
 image: /images/targetting_notification.png
 excerpt:
     We present a new approach to automatically detecting lower-performing or "at-risk" students on computer programming modules and sending them personalized adaptive recommendations based on their performance.
@@ -11,7 +11,11 @@ excerpt:
 We present a new approach to automatically detecting lower-performing or "at-risk" students in computer programming modules and automatically and adaptively sending them feedback. By leveraging historical student data we built predictive models using student characteristics, prior academic history, logged interactions between students and online resources, and students' progress in programming laboratory work. Predictions were generated every week during the semester's classes. In addition, during the second half of the semester, students who opted-in received pseudo real-time personalised feedback. Notifications were personalised based on students' predicted performance on the module and included a programming suggestion from a top-student in the class if any  programs submitted had failed to meet the specified criteria. As a result, this helped  students who corrected their programs to learn more and reduced the gap between lower and higher-performing students.
 
 ## Publications
+* {% reference azcona2015micro %} {% cite_details azcona2015micro %} / [PDF]({{ site.pubs_path }}/azcona2015micro.pdf)
 * {% reference azcona2017targeting %} {% cite_details azcona2017targeting %} / [PDF]({{ site.pubs_path }}/azcona2017targeting.pdf)
+* {% reference azcona2017innovative %} {% cite_details azcona2017innovative %} / [PDF]({{ site.pubs_path }}/azcona2017innovative.pdf)
+* {% reference azcona2018predictcs %} {% cite_details azcona2018predictcs %} / [PDF]({{ site.pubs_path }}/azcona2018predictcs.pdf)
+* {% reference azcona2018detecting %} {% cite_details azcona2018detecting %}
 * More will be added soon!
 
 ## Further details

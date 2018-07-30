@@ -11,3 +11,9 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 
 ## Conference papers (with referee)
 {% bibliography --query @inproceedings or @incollection %}
+
+## Under Review
+{% bibliography --query @underreview %}
+
+## Awards
+* AIED 2018 Best Student Poster Nominee

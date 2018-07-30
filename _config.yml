@@ -33,6 +33,8 @@ navigation:
       link: /cv.html
     - title: Awards
       link: /awards.html
+    - title: Media
+      link: /media.html
 
 ga_id: UA-110743398-1
 ga_domain: dcu.ie

@@ -3,6 +3,7 @@ title: Awards
 layout: default
 ---
 
+# Awards
 I have been very fortunate to receive a number of awards that have allowed me to learn, pursue my interests and meet like-minded people:
 
 |||
@@ -15,6 +16,18 @@ I have been very fortunate to receive a number of awards that have allowed me to
 | **2015 – 2019** | **Government of Ireland Doctoral awardee** |
 || *Funding organisms*: [Irish Research Council][irc], [National Forum for the Enhancement of Teaching and Learning in Ireland][natforum] |
 || *Location*: Dublin City University, Ireland |
+| &nbsp; ||
+| **2018** | **Microsoft Imagine Cup Awardee** |
+|| *Funding organism*: [Microsoft Imagine Cup][msft] |
+|| *Location*: San Francisco and Seattle, US |
+|| *National Awards*: Best Use of Artificial Intelligence & 4th place at USA Nationals |
+|| *World Awards*: Top-6 in Artificial Intelligence & Semifinalists at World Finals |
+|| Further details can be found: [USA Nationals](./blog/msft_ic) & [World Finals](./blog/msft_ic_world) |
+| &nbsp; ||
+| **2018** | **Grant for a coding non-profit at Arizona State University** |
+|| *Funding organism*: [ASU Changemaker][changemaker] |
+|| *Location*: Tempe, AZ, US |
+|| Further details can be found [here](./blog/coding) |
 | &nbsp; ||
 | **2017** | **Invited scholar at Data Science Conference** |
 || *Funding organism*: [Open Data Science Conference][odsc] |
@@ -52,6 +65,8 @@ I have been very fortunate to receive a number of awards that have allowed me to
 [fulbright]: http://www.fulbright.ie/
 [irc]: http://research.ie/
 [natforum]: https://www.teachingandlearning.ie/
+[changemaker]: https://changemaker.asu.edu/
+[msft]: https://imagine.microsoft.com/
 [odsc]: https://odsc.com/
 [yerun]: https://www.yerun.eu/
 [ryan]: http://ryanacademy.ie/

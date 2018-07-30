@@ -6,8 +6,7 @@ layout: default
 <img class="post-image" src="{{ site.baseurl }}/images/me.jpg" />
 
 # ~$ whoami
-I am a PhD candidate supervised by [Prof Alan Smeaton][asmeaton] in the [Insight Centre for Data Analytics][icda] at [Dublin City University][dcu] in Ireland. 
-At the moment, I am visiting [Arizona State University][asu] as a [Fulbright][fulbright] research scholar. 
+I am a PhD Candidate supervised by [Prof Alan Smeaton][asmeaton] in the [Insight Centre for Data Analytics][icda] at [Dublin City University][dcu] in Ireland. During my doctoral studies, I visited [Arizona State University][asu] as a [Fulbright][fulbright] research scholar. 
 
 My research focuses on personalizing Computer Science Education. I use student data footprints to predict student performance and recommend the most suitable learning resources to enhance their academic experience. 
 
