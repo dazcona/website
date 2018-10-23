@@ -23,10 +23,11 @@ My research focuses on personalizing Computer Science Education. I use student d
 * Data Science for Social Good
 
 ## Online presence
-[Github][github], [Google Scholar][gscholar], [LinkedIn][linkedin], [Doras][doras], [Facebook][fb]
+[Github][github], [Google Scholar][gscholar], [LinkedIn][linkedin], [Doras][doras], [Facebook][fb], [Twitter][twitter]
 
 [github]: http://github.com/dazcona
 [gscholar]: https://scholar.google.com/citations?user=d26CpJEAAAAJ
 [linkedin]: http://linkedin.com/in/davidazcona/
 [doras]: http://doras.dcu.ie/view/people/Azcona,_David.html
 [fb]: https://www.facebook.com/daviz.azcona
+[twitter]: https://twitter.com/dazconap
