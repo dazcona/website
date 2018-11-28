@@ -21,6 +21,7 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 
 ## Organization
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at the University at Buffalo, New York, USA (CSEDM 2018). [Proceedings][csedm]
+* Educational Data Mining in Computer Science Education (CSEDM) Workshop at Arizona State University, Arizona, USA (CSEDM 2019). [Proceedings][csedm2]
 
 ## Selected presentations
 * Data Mining & Embeddings to Offer Fresh Insights on Irish Politics at the Insight Student Conference 2018 in Unversity College Dublin, Ireland (ISC 2018)
@@ -33,7 +34,7 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 * Crowdsource Programming Recommendations in Educational Analytics at the 3rd Insight Student Conference, Dublin City University, Dublin, Ireland (ISC 2016)
 
 ## Other events
-* Talked at the Dublin City University's Teaching & Learning Day 2018
+* Presented at the Dublin City University's Teaching & Learning Day 2018
 * Presented a poster at the International Conference on Artificial Intelligence in Education (AIED 2018)
 * Demoed about Educational Analytics in Computer Science at the 1st. Insight Augmented Human Demonstrator Event in March 2017
 * Attended the Fulbright Enrichment April 2018 Seminar Philadelphia, Pennsylvania, USA
@@ -43,4 +44,4 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 * Presented posters at Dublin City University's Faculty of Engineering and Computing Research Day in 2017 and 2018
 
 [csedm]: https://sites.google.com/asu.edu/csedm-ws-edm-2018
-
+[csedm2]: https://sites.google.com/asu.edu/csedm-ws-lak-2019

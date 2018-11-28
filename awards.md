@@ -13,9 +13,17 @@ I have been very fortunate to receive a number of awards that have allowed me to
 || *Location*: Arizona State University, US |
 || *Advisors*: [John Rome](https://uto.asu.edu/about/john-rome), [Arthur Blakemore](https://isearch.asu.edu/profile/44586)  |
 | &nbsp; ||
-| **2015 – 2019** | **Government of Ireland Doctoral awardee** |
+| **2015 – 2019** | **Government of Ireland Doctoral Awardee** |
 || *Funding organisms*: [Irish Research Council][irc], [National Forum for the Enhancement of Teaching and Learning in Ireland][natforum] |
 || *Location*: Dublin City University, Ireland |
+| &nbsp; ||
+| **2018** | **Special Mention at StartUp Weekend Dublin** |
+|| *Funding organism*: [Bank of Ireland][boi] |
+|| *Location*: Google, Dublin, Ireland |
+| &nbsp; ||
+| **2018** | **Huawei's Future of Vision Challenge Awardee** |
+|| *Funding organism*: [Huawei][huawei] |
+|| *Location*: Trinity College Dublin, Ireland |
 | &nbsp; ||
 | **2018** | **Microsoft Imagine Cup Awardee** |
 || *Funding organism*: [Microsoft Imagine Cup][msft] |
@@ -75,4 +83,5 @@ I have been very fortunate to receive a number of awards that have allowed me to
 [gamesa]: http://www.siemensgamesa.com/gamesa/en/siemensgamesa.html
 [acciona]: http://acciona.us/
 [ingeteam]: https://www.ingeteam.com/
-
+[boi]: https://www.bankofireland.com/
+[huawei]: https://www.huawei.com/en/
