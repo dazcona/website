@@ -48,8 +48,8 @@ scholar:
   style: apa-no-doi-no-issue
   locale: en
 
-  sort_by: none
-  order: ascending
+  sort_by: year, month
+  order: descending
 
   repository: ./pubs
   source: ./_bibliography
