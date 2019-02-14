@@ -12,6 +12,9 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 ## Conference papers (with referee)
 {% bibliography --query @inproceedings or @incollection %}
 
+## Demos
+{% bibliography --query @demo %}
+
 ## Under review
 {% bibliography --query @underreview %}
 
@@ -21,6 +24,7 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 
 ## Organization
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at the University at Buffalo, New York, USA (CSEDM 2018). [Proceedings][csedm]
+* Proceeding Editor of the 9th International Learning Analytics & Knowledge Conference (LAK 2019) at Arizona State University, Arizona, USA
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at Arizona State University, Arizona, USA (CSEDM 2019). [Proceedings][csedm2]
 
 ## Selected presentations
@@ -34,6 +38,7 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 * Crowdsource Programming Recommendations in Educational Analytics at the 3rd Insight Student Conference, Dublin City University, Dublin, Ireland (ISC 2016)
 
 ## Other events
+* Presented a poster at the 2019 Insight Review in NUI Galway
 * Presented at the Dublin City University's Teaching & Learning Day 2018
 * Presented a poster at the International Conference on Artificial Intelligence in Education (AIED 2018)
 * Demoed about Educational Analytics in Computer Science at the 1st. Insight Augmented Human Demonstrator Event in March 2017

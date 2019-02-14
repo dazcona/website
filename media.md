@@ -19,7 +19,15 @@ layout: default
 | **2017 - 2018** | **Fulbright Research Scholarship in Arizona State University** |
 || *Media organisms*: [DCU][dcu], [Insight Centre for Data Analytics][insight] |
 || *Location*: Arizona State University, USA |
-|| *Articles*: https://www.dcu.ie/news/2017/jun/s0617i.shtml, <br/>https://www.insight-centre.org/content/interview-fulbright-scholar-david-azcona-taking-insight-arizona |
+|| *Articles*: https://www.dcu.ie/news/2017/jun/s0617i.shtml, <br/>https://www.insight-centre.org/content/interview-fulbright-scholar-david-azcona-taking-insight-arizona, <br/>http://www.irishfulbrightalumni.com/docs/IFAA-SpringSummer-2018-final.pdf |
+| &nbsp; ||
+
+# Sports
+|||
+|---|---|
+| <div style="display: inline-block;white-space: nowrap;">**2019**&nbsp;&nbsp;&nbsp;</div> | **Futsal sides qualify for National finals. Interview with David Azcona, captain of the men’s side** |
+|| *Media organism*: [College View](https://www.thecollegeview.com) |
+|| *Articles*: https://www.thecollegeview.com/2019/02/06/futsal-sides-qualify-for-national-finals/ |
 | &nbsp; ||
 
 [asu_now]: https://asunow.asu.edu/

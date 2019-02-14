@@ -8,7 +8,7 @@ layout: default
 # ~$ whoami
 I am a PhD Candidate supervised by [Prof Alan Smeaton][asmeaton] in the [Insight Centre for Data Analytics][icda] at [Dublin City University][dcu] in Ireland. During my doctoral studies, I visited [Arizona State University][asu] as a [Fulbright][fulbright] research scholar. 
 
-My research focuses on personalizing Computer Science Education. I use student data footprints to predict student performance and recommend the most suitable learning resources to enhance their academic experience. 
+My research is in Artificial Intelligence. I focused on personalizing Computer Science Education. I use student data footprints to predict student performance and recommend the most suitable learning resources to enhance their academic experience. 
 
 [asmeaton]: https://www.computing.dcu.ie/~asmeaton/
 [icda]: https://insight-centre.org/
