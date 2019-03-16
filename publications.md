@@ -19,12 +19,13 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 {% bibliography --query @underreview %}
 
 ## Awards
+* LAK 2019 Best Demo Runner Up
 * AIED 2018 Best Student Poster Nominee
 * EC-TEL 2018 Best Paper Nominee
 
 ## Organization
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at the University at Buffalo, New York, USA (CSEDM 2018). [Proceedings][csedm]
-* Proceeding Editor of the 9th International Learning Analytics & Knowledge Conference (LAK 2019) at Arizona State University, Arizona, USA
+* Proceeding Editor of the 9th International Learning Analytics & Knowledge Conference (LAK 2019) at Arizona State University, Arizona, USA. [Proceedings](https://dl.acm.org/citation.cfm?id=3303772)
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at Arizona State University, Arizona, USA (CSEDM 2019). [Proceedings][csedm2]
 
 ## Selected presentations

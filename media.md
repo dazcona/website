@@ -6,9 +6,9 @@ layout: default
 |||
 |---|---|
 | <div style="display: inline-block;white-space: nowrap;">**2017 - 2018**&nbsp;&nbsp;&nbsp;</div> | **Fire Detector using Artificial Intelligence and Drones** |
-|| *Media organism*: [ASU Now][asu_now], [State Press][state_press] |
+|| *Media organism*: [ASU Now][asu_now], [State Press][state_press], ASU Innovation Podcast(https://universitydesign.asu.edu/podcast/) |
 || *Collaborators*: Facundo Santiago, Murong He |
-|| *Articles*: https://asunow.asu.edu/20180612-arizona-impact-asu-team-uses-artificial-intelligence-detect-wildfires, <br/>http://www.statepress.com/article/2018/06/spscience-asu-team-uses-ai-to-detect-wildfires |
+|| *Articles*: https://asunow.asu.edu/20180612-arizona-impact-asu-team-uses-artificial-intelligence-detect-wildfires, <br/>http://www.statepress.com/article/2018/06/spscience-asu-team-uses-ai-to-detect-wildfires, <br/>https://universitydesign.asu.edu/podcast/prometheus |
 | &nbsp; ||
 | **2018** | **Fresh Insights on Irish Politics using Data Mining** |
 || *Media organisms*: [RTE Brainstorm][brainstorm] |

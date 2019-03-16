@@ -16,7 +16,7 @@ layout: default
 |||
 |---|---|
 | <div style="display: inline-block;white-space: nowrap;">**2015 - Present**&nbsp;&nbsp;&nbsp;</div> | **PhD, Dublin City University (DCU), Ireland** |
-|| *Topic*: Educational Data Mining & Computer Science Education |
+|| *Topic*: Artificial Intelligence |
 || *Advisor*: [Prof Alan Smeaton](http://www.computing.dcu.ie/~asmeaton/) |
 | &nbsp; ||
 | **2017 - 2018** | **[Fulbright](https://us.fulbrightonline.org/) Visiting Researcher, Arizona State University (ASU), United States** |
