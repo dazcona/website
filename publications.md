@@ -29,6 +29,7 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at Arizona State University, Arizona, USA (CSEDM 2019). [Proceedings][csedm2]
 
 ## Selected presentations
+* User2Code2Vec: Embeddings for Profiling Students Based on Distributional Representations of Source Code at Arizona State University, Tempe, AZ, USA (LAK 2019)
 * Data Mining & Embeddings to Offer Fresh Insights on Irish Politics at the Insight Student Conference 2018 in Unversity College Dublin, Ireland (ISC 2018)
 * Predictive Modelling of Student Reviewing Behaviors in an Introductory Programming Course at the Educational Data Mining in Computer Science Education Workshop at EDM 2018 at the University at Buffalo, New York, USA (CSEDM 2018)
 * PredictCS: Personalizing Programming learning by leveraging learning analytics at the International Workshop on Orchestrating Learning Analytics (OrLA): Learning Analytics Adoption at the Classroom Level in conjunction with LAK 2018 at The University of Sydney, Australia (LAK 2018)
@@ -39,6 +40,7 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 * Crowdsource Programming Recommendations in Educational Analytics at the 3rd Insight Student Conference, Dublin City University, Dublin, Ireland (ISC 2016)
 
 ## Other events
+* Demoed at the Learning Analytics & Knowledge 2019 conference in Arizona State University
 * Presented a poster at the 2019 Insight Review in NUI Galway
 * Presented at the Dublin City University's Teaching & Learning Day 2018
 * Presented a poster at the International Conference on Artificial Intelligence in Education (AIED 2018)
