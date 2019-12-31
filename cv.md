@@ -6,7 +6,7 @@ layout: default
 # Curriculum vitae
 **Name**: David Azcona
 </br>
-**Address**: Apache Blvd. Vista del Sol, Tempe, Arizona, United States
+**Address**: Albert College Avenue, Dublin, Ireland
 </br>
 **Github**: http://github.com/dazcona
 </br>
@@ -15,7 +15,7 @@ layout: default
 ## Education
 |||
 |---|---|
-| <div style="display: inline-block;white-space: nowrap;">**2015 - Present**&nbsp;&nbsp;&nbsp;</div> | **PhD, Dublin City University (DCU), Ireland** |
+| <div style="display: inline-block;white-space: nowrap;">**2015 - 2019**&nbsp;&nbsp;&nbsp;</div> | **PhD, Dublin City University (DCU), Ireland** |
 || *Topic*: Artificial Intelligence |
 || *Advisor*: [Prof Alan Smeaton](http://www.computing.dcu.ie/~asmeaton/) |
 | &nbsp; ||
@@ -33,7 +33,7 @@ layout: default
 ## Work experience
 |||
 |---|---|
-| <div style="display: inline-block;white-space: nowrap;">**2015 - Present**&nbsp;&nbsp;&nbsp;</div> | **PhD Researcher at Insight Centre for Data Analytics, Ireland** |
+| <div style="display: inline-block;white-space: nowrap;">**2015 - Present**&nbsp;&nbsp;&nbsp;</div> | **Researcher at Insight Centre for Data Analytics, Ireland** |
 || Collaborate with researchers, lecturers and industry partners to develop new technologies |
 | &nbsp; ||
 | **2012 - 2015** | **Software Engineer at IBM Ireland** |
@@ -47,7 +47,7 @@ layout: default
 || Developed wind power analytics platforms that were utilized by Vestas, Acciona, and Siemens Gamesa |
 
 ## Teaching
-For the past 4 years I have been a laboratory assistant and tutor at DCU's School of Computing:
+For the past 5 years I have been a laboratory assistant and tutor at DCU's School of Computing:
 
 * Programming I in Python
 * Object Oriented Design and Implementation in C++

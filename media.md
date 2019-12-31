@@ -2,7 +2,7 @@
 title: Media
 layout: default
 ---
-# Media
+# Academics
 |||
 |---|---|
 | <div style="display: inline-block;white-space: nowrap;">**2017 - 2018**&nbsp;&nbsp;&nbsp;</div> | **Fire Detector using Artificial Intelligence and Drones** |
@@ -21,6 +21,11 @@ layout: default
 || *Location*: Arizona State University, USA |
 || *Articles*: https://www.dcu.ie/news/2017/jun/s0617i.shtml, <br/>https://www.insight-centre.org/content/interview-fulbright-scholar-david-azcona-taking-insight-arizona, <br/>http://www.irishfulbrightalumni.com/docs/IFAA-SpringSummer-2018-final.pdf |
 | &nbsp; ||
+| **2019** | **Loandog hacks fintech competition at CHQ** |
+|| *Media organisms*: [Tech Central][techcentral] |
+|| *Location*: Dublin, Ireland |
+|| *Article*: https://www.techcentral.ie/loandog-hacks-fintech-competition-at-chq/ |
+| &nbsp; ||
 
 # Sports
 |||
@@ -35,3 +40,4 @@ layout: default
 [brainstorm]: https://www.rte.ie/eile/brainstorm/
 [dcu]: https://www.dcu.ie/
 [insight]: https://www.insight-centre.org
+[techcentral]: https://www.techcentral.ie

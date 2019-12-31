@@ -17,13 +17,55 @@ I have been very fortunate to receive a number of awards that have allowed me to
 || *Funding organisms*: [Irish Research Council][irc], [National Forum for the Enhancement of Teaching and Learning in Ireland][natforum] |
 || *Location*: Dublin City University, Ireland |
 | &nbsp; ||
+| **2019** | **Winners at Oxford Hack 2019: Most Inventive Hack and Hackers' Choice Awards** |
+|| *Funding organism*: [Major League Hacking][mlh] |
+|| *Location*: University of Oxford, Oxford, United Kingdom |
+|| Further details can be found [here](./blog/oxford) |
+| &nbsp; ||
+| **2019** | **Winners at HackUPC McKinsey & Co.'s AI Challenge** |
+|| *Funding organism*: [McKinsey & Company][McKinsey] |
+|| *Location*: Polytechnic University of Catalonia, Barcelona, Spain |
+|| Further details can be found [here](./blog/hackupc) |
+| &nbsp; ||
+| **2019** | **Winners at Ulster Bank's Fintech Hackathon** |
+|| *Funding organism*: [Ulster Bank][ub] |
+|| *Location*: Dogpatch Labs, Dublin, Ireland |
+|| Further details can be found [here](./blog/loandog) |
+| &nbsp; ||
+| **2019** | **Runners Up at McKinsey’s Datathon The City Cup (Madrid)** |
+|| *Funding organism*: [McKinsey & Company][McKinsey] |
+|| *Location*: McKinsey & Co., Madrid, Spain |
+|| Further details can be found [here](./blog/citycup) |
+| &nbsp; ||
+| **2019** | **Runners Up at Trinity Learnovate's Digital Education Hack** |
+|| *Funding organism*: [European Commission](eu), [Climate-KIC][climate] & [Aalto University][aalto] |
+|| *Location*: Trinity College Dublin, Ireland |
+|| Further details can be found [here](./blog/digieduhack) |
+| &nbsp; ||
+| **2019** | **Special Mention at Royal Bank of Scotland’s Fintech Hackathon** |
+|| *Funding organism*: [Royal Bank of Scotland][rbs] and [Deloitte][deloitte] |
+|| *Location*: Royal Bank of Scotland, Edinburgh, United Kingdom |
+|| Further details can be found [here](./blog/rbs) |
+| &nbsp; ||
+| **2019** | **Finalist at AI NI Hackathon** |
+|| *Funding organism*: Northern Ireland Artificial Intelligence Community |
+|| *Location*: Queens University Belfast, Belfast, United Kingdom |
+|| Further details can be found [here](./blog/aini) |
+| &nbsp; ||
+| **2018** | **Geek of the Year Winner** |
+|| *Funding organism*: [Novicell][novicell] |
+|| *Location*: Denmark, Spain, UK and Norway |
+|| Further details can be found [here](./blog/novicell) |
+| &nbsp; ||
 | **2018** | **Special Mention at StartUp Weekend Dublin** |
 || *Funding organism*: [Bank of Ireland][boi] |
 || *Location*: Google, Dublin, Ireland |
+|| Further details can be found [here](./blog/google_startup) |
 | &nbsp; ||
 | **2018** | **Huawei's Future of Vision Challenge Awardee** |
 || *Funding organism*: [Huawei][huawei] |
 || *Location*: Trinity College Dublin, Ireland |
+|| Further details can be found [here](./blog/huawei_vision) and the trip to China [here](./blog/huawei) |
 | &nbsp; ||
 | **2018** | **Microsoft Imagine Cup Awardee** |
 || *Funding organism*: [Microsoft Imagine Cup][msft] |
@@ -85,3 +127,12 @@ I have been very fortunate to receive a number of awards that have allowed me to
 [ingeteam]: https://www.ingeteam.com/
 [boi]: https://www.bankofireland.com/
 [huawei]: https://www.huawei.com/en/
+[ub]: https://www.ulsterbank.ie/
+[novicell]: https://www.novicell.dk/
+[rbs]: https://www.rbs.com/
+[deloitte]: https://deloitte.com
+[eu]: https://ec.europa.eu/
+[climate]: https://www.climate-kic.org
+[aalto]: https://www.aalto.fi/en
+[McKinsey]: https://www.mckinsey.com/
+[mlh]: https://mlh.io/
