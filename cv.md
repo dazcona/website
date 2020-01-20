@@ -59,6 +59,10 @@ For the past 5 years I have been a laboratory assistant and tutor at DCU's Schoo
 ## Volunteering
 |||
 |---|---|
+| **2015 - Present** | **DCU Faculty of Engineering Postdoctoral Representative** |
+|| I represent postdoctoral researchers at the Faculty Committee for Research  |
+| &nbsp; ||
+| **2015 - Present** | **DCU Soccer Club Coach, Captain, Secretary & Ambassador** |
 | <div style="display: inline-block;white-space: nowrap;">**2017 - 2018**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div> | **Coding Lead Mentor at ASU's Inition Education Solutions** |
 || Led a group of student volunteers to teach kids how to code in a fun way at Gililland Middle School (Tempe, Arizona) |
 | &nbsp; ||
