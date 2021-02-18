@@ -62,7 +62,11 @@ For the past 5 years I have been a laboratory assistant and tutor at DCU's Schoo
 | **2015 - Present** | **DCU Faculty of Engineering Postdoctoral Representative** |
 || I represent postdoctoral researchers at the Faculty Committee for Research  |
 | &nbsp; ||
-| **2015 - Present** | **DCU Soccer Club Coach, Captain, Secretary & Ambassador** |
+| **2019 - Present** | **DCU Soccer Club Coach, Captain, Secretary & Ambassador** |
+| &nbsp; ||
+| **2010 - Present** | **UPNA Student Ambassador** |
+|| Mentor foreign students to enhance their study abroad experience |
+| &nbsp; ||
 | <div style="display: inline-block;white-space: nowrap;">**2017 - 2018**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div> | **Coding Lead Mentor at ASU's Inition Education Solutions** |
 || Led a group of student volunteers to teach kids how to code in a fun way at Gililland Middle School (Tempe, Arizona) |
 | &nbsp; ||
@@ -78,9 +82,6 @@ For the past 5 years I have been a laboratory assistant and tutor at DCU's Schoo
 | &nbsp; ||
 | **2013 - 2014** | **Project Supervisor at UPNA and Institute of Technology Blanchardstown (ITB) in Ireland** |
 || Facilitated a collaboration effort between students from UPNA and ITB to work together on their practicums |
-| &nbsp; ||
-| **2010 - Present** | **UPNA Student Ambassador** |
-|| Mentor foreign students to enhance their study abroad experience |
 | &nbsp; ||
 | **2012** | **UPNA School of Computing Student Representative** |
 || Promoted and showcased the university to prospective students and their families |

@@ -9,107 +9,107 @@ I have been very fortunate to receive a number of awards that have allowed me to
 |||
 |---|---|
 | <div style="display: inline-block;white-space: nowrap;">**2017 - 2018**&nbsp;&nbsp;&nbsp;</div> | **Fulbright Visiting Researcher** |
-|| *Funding organism*: [Fulbright Commission in Ireland][fulbright] |
+|| *Funding organisation*: [Fulbright Commission in Ireland][fulbright] |
 || *Location*: Arizona State University, US |
 || *Advisors*: [John Rome](https://uto.asu.edu/about/john-rome), [Arthur Blakemore](https://isearch.asu.edu/profile/44586)  |
 | &nbsp; ||
 | **2015 – 2019** | **Government of Ireland Doctoral Awardee** |
-|| *Funding organisms*: [Irish Research Council][irc], [National Forum for the Enhancement of Teaching and Learning in Ireland][natforum] |
+|| *Funding organisations*: [Irish Research Council][irc], [National Forum for the Enhancement of Teaching and Learning in Ireland][natforum] |
 || *Location*: Dublin City University, Ireland |
 | &nbsp; ||
 | **2019** | **Winners at Oxford Hack 2019: Most Inventive Hack and Hackers' Choice Awards** |
-|| *Funding organism*: [Major League Hacking][mlh] |
+|| *Funding organisation*: [Major League Hacking][mlh] |
 || *Location*: University of Oxford, Oxford, United Kingdom |
 || Further details can be found [here](./blog/oxford) |
 | &nbsp; ||
 | **2019** | **Winners at HackUPC McKinsey & Co.'s AI Challenge** |
-|| *Funding organism*: [McKinsey & Company][McKinsey] |
+|| *Funding organisation*: [McKinsey & Company][McKinsey] |
 || *Location*: Polytechnic University of Catalonia, Barcelona, Spain |
 || Further details can be found [here](./blog/hackupc) |
 | &nbsp; ||
 | **2019** | **Winners at Ulster Bank's Fintech Hackathon** |
-|| *Funding organism*: [Ulster Bank][ub] |
+|| *Funding organisation*: [Ulster Bank][ub] |
 || *Location*: Dogpatch Labs, Dublin, Ireland |
 || Further details can be found [here](./blog/loandog) |
 | &nbsp; ||
 | **2019** | **Runners Up at McKinsey’s Datathon The City Cup (Madrid)** |
-|| *Funding organism*: [McKinsey & Company][McKinsey] |
+|| *Funding organisation*: [McKinsey & Company][McKinsey] |
 || *Location*: McKinsey & Co., Madrid, Spain |
 || Further details can be found [here](./blog/citycup) |
 | &nbsp; ||
 | **2019** | **Runners Up at Trinity Learnovate's Digital Education Hack** |
-|| *Funding organism*: [European Commission](eu), [Climate-KIC][climate] & [Aalto University][aalto] |
+|| *Funding organisation*: [European Commission](eu), [Climate-KIC][climate] & [Aalto University][aalto] |
 || *Location*: Trinity College Dublin, Ireland |
 || Further details can be found [here](./blog/digieduhack) |
 | &nbsp; ||
 | **2019** | **Special Mention at Royal Bank of Scotland’s Fintech Hackathon** |
-|| *Funding organism*: [Royal Bank of Scotland][rbs] and [Deloitte][deloitte] |
+|| *Funding organisation*: [Royal Bank of Scotland][rbs] and [Deloitte][deloitte] |
 || *Location*: Royal Bank of Scotland, Edinburgh, United Kingdom |
 || Further details can be found [here](./blog/rbs) |
 | &nbsp; ||
 | **2019** | **Finalist at AI NI Hackathon** |
-|| *Funding organism*: Northern Ireland Artificial Intelligence Community |
+|| *Funding organisation*: Northern Ireland Artificial Intelligence Community |
 || *Location*: Queens University Belfast, Belfast, United Kingdom |
 || Further details can be found [here](./blog/aini) |
 | &nbsp; ||
 | **2018** | **Geek of the Year Winner** |
-|| *Funding organism*: [Novicell][novicell] |
+|| *Funding organisation*: [Novicell][novicell] |
 || *Location*: Denmark, Spain, UK and Norway |
 || Further details can be found [here](./blog/novicell) |
 | &nbsp; ||
 | **2018** | **Special Mention at StartUp Weekend Dublin** |
-|| *Funding organism*: [Bank of Ireland][boi] |
+|| *Funding organisation*: [Bank of Ireland][boi] |
 || *Location*: Google, Dublin, Ireland |
 || Further details can be found [here](./blog/google_startup) |
 | &nbsp; ||
 | **2018** | **Huawei's Future of Vision Challenge Awardee** |
-|| *Funding organism*: [Huawei][huawei] |
+|| *Funding organisation*: [Huawei][huawei] |
 || *Location*: Trinity College Dublin, Ireland |
 || Further details can be found [here](./blog/huawei_vision) and the trip to China [here](./blog/huawei) |
 | &nbsp; ||
 | **2018** | **Microsoft Imagine Cup Awardee** |
-|| *Funding organism*: [Microsoft Imagine Cup][msft] |
+|| *Funding organisation*: [Microsoft Imagine Cup][msft] |
 || *Location*: San Francisco and Seattle, US |
 || *National Awards*: Best Use of Artificial Intelligence & 4th place at USA Nationals |
 || *World Awards*: Top-6 in Artificial Intelligence & Semifinalists at World Finals |
 || Further details can be found: [USA Nationals](./blog/msft_ic) & [World Finals](./blog/msft_ic_world) |
 | &nbsp; ||
 | **2018** | **Grant for a coding non-profit at Arizona State University** |
-|| *Funding organism*: [ASU Changemaker][changemaker] |
+|| *Funding organisation*: [ASU Changemaker][changemaker] |
 || *Location*: Tempe, AZ, US |
 || Further details can be found [here](./blog/coding) |
 | &nbsp; ||
 | **2017** | **Invited scholar at Data Science Conference** |
-|| *Funding organism*: [Open Data Science Conference][odsc] |
+|| *Funding organisation*: [Open Data Science Conference][odsc] |
 || *Location*: San Francisco, CA, US |
 | &nbsp; ||
 | **2016** | **Invited scholar at Analytics Summer School** |
-|| *Funding organism*: [Young European Research Universities Network (YERUN)][yerun]  |
+|| *Funding organisation*: [Young European Research Universities Network (YERUN)][yerun]  |
 || *Location*: University of Essex, UK |
 | &nbsp; ||
 | **2015 - 2016** | **Postgraduate Accommodation scholar** |
-|| *Funding organism*: Faculty of Engineering and Computing |
+|| *Funding organisation*: Faculty of Engineering and Computing |
 || *Location*: Dublin City University, Ireland |
 | &nbsp; ||
 | **2015** | **Accelerator awardee to start up my own company** |
-|| *Funding organism*: [Ryan Academy for Entrepeneurs][ryan] |
+|| *Funding organisation*: [Ryan Academy for Entrepeneurs][ryan] |
 || *Location*: Dublin City University, Ireland |
 || Further details can be found [here](./blog/ustart) |
 | &nbsp; ||
 | **2013 - 2015** | **Tuition Reimbursement awardee to course a Master's Degree** |
-|| *Funding organism*: [IBM][ibm] |
+|| *Funding organisation*: [IBM][ibm] |
 || *Location*: Dublin City University, Ireland |
 | &nbsp; ||
 | **2012** | **European internship fellow** |
-|| *Funding organisms*: [Erasmus+][erasmus], [IBM][ibm] |
+|| *Funding organisations*: [Erasmus+][erasmus], [IBM][ibm] |
 || *Location*: IBM Belgium |
 | &nbsp; ||
 | **2012** | **European exchange fellow** |
-|| *Funding organisms*: [Erasmus][erasmus] |
+|| *Funding organisations*: [Erasmus][erasmus] |
 || *Location*: Brussels, Belgium |
 | &nbsp; ||
 | **2012** | **I Renewable Energies Thesis Program awardee** |
-|| *Funding organisms*: [Siemens Gamesa][gamesa], [Acciona][acciona], [Ingeteam][ingeteam] |
+|| *Funding organisations*: [Siemens Gamesa][gamesa], [Acciona][acciona], [Ingeteam][ingeteam] |
 || *Location*: Ingeteam & Public University of Navarre, Spain |
 
 [fulbright]: http://www.fulbright.ie/
