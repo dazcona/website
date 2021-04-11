@@ -5,3 +5,10 @@ Source for http://computing.dcu.ie/~dazcona. The website is built with [Anders B
 [bootstrap]: https://getbootstrap.com/
 [jekyll]: https://jekyllrb.com/
 [jscholar]: https://github.com/inukshuk/jekyll-scholar
+
+## Deployment
+
+Deployment using [Jekyll](https://jekyllrb.com/docs/installation/):
+```
+$ gem install bundler jekyll jekyll-scholar
+```

@@ -8,12 +8,12 @@ I have been very fortunate to receive a number of awards that have allowed me to
 
 |||
 |---|---|
-| <div style="display: inline-block;white-space: nowrap;">**2017 - 2018**&nbsp;&nbsp;&nbsp;</div> | **Fulbright Visiting Researcher** |
+| **2017/2018**&nbsp;&nbsp; | **Fulbright Visiting Researcher** |
 || *Funding organisation*: [Fulbright Commission in Ireland][fulbright] |
 || *Location*: Arizona State University, US |
-|| *Advisors*: [John Rome](https://uto.asu.edu/about/john-rome), [Arthur Blakemore](https://isearch.asu.edu/profile/44586)  |
+|| *Advisors*: [John Rome](https://uto.asu.edu/about/meet-the-uto/john-rome), [Arthur Blakemore](https://isearch.asu.edu/profile/44586)  |
 | &nbsp; ||
-| **2015 – 2019** | **Government of Ireland Doctoral Awardee** |
+| **2015/2019**&nbsp;&nbsp; | **Government of Ireland Doctoral Awardee** |
 || *Funding organisations*: [Irish Research Council][irc], [National Forum for the Enhancement of Teaching and Learning in Ireland][natforum] |
 || *Location*: Dublin City University, Ireland |
 | &nbsp; ||
@@ -87,7 +87,7 @@ I have been very fortunate to receive a number of awards that have allowed me to
 || *Funding organisation*: [Young European Research Universities Network (YERUN)][yerun]  |
 || *Location*: University of Essex, UK |
 | &nbsp; ||
-| **2015 - 2016** | **Postgraduate Accommodation scholar** |
+| **2015/2016** | **Postgraduate Accommodation scholar** |
 || *Funding organisation*: Faculty of Engineering and Computing |
 || *Location*: Dublin City University, Ireland |
 | &nbsp; ||
@@ -96,7 +96,7 @@ I have been very fortunate to receive a number of awards that have allowed me to
 || *Location*: Dublin City University, Ireland |
 || Further details can be found [here](./blog/ustart) |
 | &nbsp; ||
-| **2013 - 2015** | **Tuition Reimbursement awardee to course a Master's Degree** |
+| **2013/2015** | **Tuition Reimbursement awardee to course a Master's Degree** |
 || *Funding organisation*: [IBM][ibm] |
 || *Location*: Dublin City University, Ireland |
 | &nbsp; ||

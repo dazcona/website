@@ -4,31 +4,39 @@ layout: default
 ---
 
 # My publications
+
 I refer you to my [projects]({{ site.baseurl }}/projects) for a description of the publications and their context.
 
 ## Journal papers (with referee)
+
 {% bibliography --query @article %}
 
 ## Conference papers (with referee)
+
 {% bibliography --query @inproceedings or @incollection %}
 
 ## Demos
+
 {% bibliography --query @demo %}
 
 ## Under review
+
 {% bibliography --query @underreview %}
 
 ## Awards
+
 * LAK 2019 Best Demo Runner Up
 * AIED 2018 Best Student Poster Nominee
 * EC-TEL 2018 Best Paper Nominee
 
 ## Organization
+
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at the University at Buffalo, New York, USA (CSEDM 2018). [Proceedings][csedm]
 * Proceeding Editor of the 9th International Learning Analytics & Knowledge Conference (LAK 2019) at Arizona State University, Arizona, USA. [Proceedings](https://dl.acm.org/citation.cfm?id=3303772)
 * Educational Data Mining in Computer Science Education (CSEDM) Workshop at Arizona State University, Arizona, USA (CSEDM 2019). [Proceedings][csedm2]
 
 ## Selected presentations
+
 * User2Code2Vec: Embeddings for Profiling Students Based on Distributional Representations of Source Code at Arizona State University, Tempe, AZ, USA (LAK 2019)
 * Data Mining & Embeddings to Offer Fresh Insights on Irish Politics at the Insight Student Conference 2018 in Unversity College Dublin, Ireland (ISC 2018)
 * Predictive Modelling of Student Reviewing Behaviors in an Introductory Programming Course at the Educational Data Mining in Computer Science Education Workshop at EDM 2018 at the University at Buffalo, New York, USA (CSEDM 2018)
@@ -40,6 +48,7 @@ I refer you to my [projects]({{ site.baseurl }}/projects) for a description of t
 * Crowdsource Programming Recommendations in Educational Analytics at the 3rd Insight Student Conference, Dublin City University, Dublin, Ireland (ISC 2016)
 
 ## Other events
+
 * Demoed at the Learning Analytics & Knowledge 2019 conference in Arizona State University
 * Presented a poster at the 2019 Insight Review in NUI Galway
 * Presented at the Dublin City University's Teaching & Learning Day 2018
